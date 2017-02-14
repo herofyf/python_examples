@@ -1,0 +1,4 @@
+1.nohup redis-server&
+2. celery -A tasks worker --loglevel=info
+3. from tasks import add
+   result = add.delay(2,3)

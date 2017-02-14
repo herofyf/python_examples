@@ -1,0 +1,7 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(392,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (mathtanh.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.c
+d:\documents\github\python_study\c_extension_samples\mathtanh\main.c(27): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+main.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+     Creating library C:\Python35\Lib\site-packages\superfastcode.lib and object C:\Python35\Lib\site-packages\superfastcode.exp
+  mathtanh.vcxproj -> C:\Python35\Lib\site-packages\superfastcode.pyd
+  mathtanh.vcxproj -> C:\Python35\Lib\site-packages\superfastcode.pdb (Full PDB)

@@ -1,0 +1,1 @@
+c/c++ -> code generation->runtime library->change "multi-threaded debug dll" to "multi-threaded dll"

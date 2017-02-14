@@ -1,0 +1,5 @@
+﻿  main.c
+main.c(27): warning C4047: 'initializing': 'int' differs in levels of indirection from 'void *'
+     Creating library C:\Python35\Lib\site-packages\superfastcode.lib and object C:\Python35\Lib\site-packages\superfastcode.exp
+  mathtanh.vcxproj -> C:\Python35\Lib\site-packages\superfastcode.pyd
+  mathtanh.vcxproj -> C:\Python35\Lib\site-packages\superfastcode.pdb (Full PDB)
